@@ -4,6 +4,7 @@
   "author": "孔飞",
   "description": "学而不思则罔，思而不学则殆",
   "language": "zh-hans",
+  "plugins": ["katex"],
   "pdf": {
     "pageNumbers": true,
     "fontFamily": "Arial",
