@@ -1,0 +1,19 @@
+{
+  "gitbook": "3.x.x",
+  "title": "书摘",
+  "author": "孔飞",
+  "description": "学而不思则罔，思而不学则殆",
+  "language": "zh-hans",
+  "pdf": {
+    "pageNumbers": true,
+    "fontFamily": "Arial",
+    "fontSize": 12,
+    "paperSize": "a4",
+    "margin": {
+      "right": 31,
+      "left": 31,
+      "top": 28,
+      "bottom": 28
+    }
+  }
+}
